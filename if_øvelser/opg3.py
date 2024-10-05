@@ -3,3 +3,7 @@
 # Programmet skal bestemme, om tallet er lige eller ulige, og udskrive resultatet.
 
 # Skriv din kode herunder:
+
+#password = "abcAb7"
+#listOfBools = [c.isdigit() for c in password]
+#any(listOfBools)

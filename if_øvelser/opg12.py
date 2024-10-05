@@ -7,18 +7,7 @@
 # - Indeholder mindst ét specialtegn (f.eks. !, @, #, $, %, ^, &, *)
 # Programmet skal udskrive, om adgangskoden er svag, middel eller stærk baseret på ovenstående kriterier.
 
-# Skriv resten af koden herunder:
-password = input("Indtast kodeord: ")
-# containsDigit = any(k.isdigit() for k in password)
-# print(containsDigit)
-
-
-
-
-        
-
-
-    
-
-
+# Skriv din kode herunder:
+# hint 1: undersøg kommandoen 'any' i Python
+# hint 2: undersøg "string methods" som fx "7".isdigit() og "A".islower()
 
