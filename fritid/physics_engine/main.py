@@ -4,6 +4,8 @@ from pygame import Vector2 as vec2
 from numpy import array as arr
 from numpy import clip, sign
 from numpy.linalg import norm
+from scipy.integrate import odeint
+
 
 CANVAS_WIDTH = float(400)
 CANVAS_HEIGHT = float(400)
@@ -76,6 +78,7 @@ while running:
 
     # RENDER GAME HERE
     coords = integrateMotion(dt,t,Y)
+    #coords = odeint(RHS,t,Y)
 
     game_coords = vec2(0.5 + Y[0], -0.5 + Y[2])
     game_coords.x *= CANVAS_WIDTH

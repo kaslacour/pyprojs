@@ -1,4 +1,4 @@
-#!/Users/kasper/Library/CloudStorage/OneDrive-BagsværdKostskoleogGymnasium/pythonProjects/myenv/bin/python3.12
+#!/Users/kasper/git_repositories/pyprojs/myenv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

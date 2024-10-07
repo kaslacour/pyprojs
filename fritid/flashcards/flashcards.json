@@ -1,0 +1,28 @@
+{
+    "flashcards": [
+        {
+            "context": "je me balladais dans la for\u00eat lorsqu'un mec m'a interrompu en disant va te faire enculer !",
+            "word_phrase": "va te faire enculer",
+            "definition": "fuck you",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/vatefaireenculer.mp3"
+        },
+        {
+            "context": "je n'ai pas un chien, mais j'aimerais en avoir un",
+            "word_phrase": "un chien",
+            "definition": "un animal",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/unchien.mp3"
+        },
+        {
+            "context": "je n'ai pas de chat chez moi, mais j'aimerais en avoir un !",
+            "word_phrase": "chat",
+            "definition": "un animal",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/chat.mp3"
+        },
+        {
+            "context": "din mor er s\u00f8d",
+            "word_phrase": "din mor",
+            "definition": "ta mamman",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/dinmor.mp3"
+        }
+    ]
+}
