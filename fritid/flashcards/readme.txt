@@ -16,4 +16,3 @@ The program displays the missing word or phrase.
 Step 3.
 Audio of context.
 
-Change in readme file.

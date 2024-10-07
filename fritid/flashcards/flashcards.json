@@ -1,28 +1,39 @@
 {
-    "flashcards": [
-        {
+    "flashcards": {
+        "va te faire enculer": {
             "context": "je me balladais dans la for\u00eat lorsqu'un mec m'a interrompu en disant va te faire enculer !",
-            "word_phrase": "va te faire enculer",
             "definition": "fuck you",
             "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/vatefaireenculer.mp3"
         },
-        {
-            "context": "je n'ai pas un chien, mais j'aimerais en avoir un",
-            "word_phrase": "un chien",
-            "definition": "un animal",
-            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/unchien.mp3"
-        },
-        {
+        "chat": {
             "context": "je n'ai pas de chat chez moi, mais j'aimerais en avoir un !",
-            "word_phrase": "chat",
             "definition": "un animal",
             "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/chat.mp3"
         },
-        {
-            "context": "din mor er s\u00f8d",
-            "word_phrase": "din mor",
-            "definition": "ta mamman",
-            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/dinmor.mp3"
+        "tu me gaves": {
+            "context": "mais pourquoi tu fais cela.. tu me gaves !",
+            "definition": "tu mais fais chier, mais poliment",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/tumegaves.mp3"
+        },
+        "bonjou": {
+            "context": "bonjou mes amis !",
+            "definition": "bonjour (normandie)",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/bonjou.mp3"
+        },
+        "\u00e0 tant\u00f4t": {
+            "context": "je vais bien qu'on se revoie. \u00e0 tant\u00f4t !",
+            "definition": "\u00e0 bient\u00f4t (normandie)",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/\u00e0tant\u00f4t.mp3"
+        },
+        "une assiette": {
+            "context": "il a pris une assiette du tirroir",
+            "definition": "une surface solide o\u00f9 on met son repas",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/uneassiette.mp3"
+        },
+        "un chien": {
+            "context": "je n'ai pas un chien, mais j'aimerais en avoir un",
+            "definition": "chien",
+            "audio_path": "/Users/kasper/git_repositories/pyprojs/fritid/flashcards/audios/unchien.mp3"
         }
-    ]
+    }
 }
